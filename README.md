@@ -2,7 +2,7 @@
 
 I'm currently finishing my Ph.D. in mechanical engineering with a focus on sensors, machine learning, and machining processes.
 
-Programming and maths are stuff that I really like, I also persue them in my freetime, as you can also see from my [stackoverflow profile](https://stackoverflow.com/users/16815358/tino-d)
+Programming and maths are stuff that I really like, I also pursue them in my freetime, as you can also see from my [stackoverflow profile](https://stackoverflow.com/users/16815358/tino-d)
 
 Check out [`ssa-tools`](https://github.com/TinoDerb/ssa-tools), a python package for applying the Singular Spectrum Analysis algorithm.
 
